@@ -34,6 +34,4 @@ Gem::Specification.new do |spec|
   end
   spec.bindir        = "exe"
   spec.require_paths = ["lib"]
-
-  spec.add_dependency "uri"
 end
